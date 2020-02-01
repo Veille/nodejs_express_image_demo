@@ -10,6 +10,10 @@
     "bootstrap",
     "express"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Veille/nodejs_express_image_demo"
+  },
   "dependencies": {
     "express": "^4.16.4"
   }
