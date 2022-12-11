@@ -15,6 +15,6 @@
     "url": "https://github.com/Veille/nodejs_express_image_demo"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   }
 }
